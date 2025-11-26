@@ -1,0 +1,7 @@
+{
+  "name": "AI Hairstyle Designer",
+  "description": "An AI-powered platform for hairstyle matching and customization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
